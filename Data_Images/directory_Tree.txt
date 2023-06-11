@@ -1,0 +1,6 @@
+This folder will contain 2 folder
+Train 
+Val
+
+Each of the two will then have 7 classes of the skin disease folders 
+which will contains the images of that perticular class
