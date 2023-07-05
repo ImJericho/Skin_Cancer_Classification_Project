@@ -4,14 +4,14 @@ DermDetect is a skin cancer classification project that utilizes a neural networ
 
 Skin cancer is a prevalent disease, and early detection plays a crucial role in its successful treatment. DermDetect aims to assist dermatologists and healthcare professionals in accurately classifying skin lesions as benign or malignant. By leveraging deep learning techniques, DermDetect automates the classification process and provides reliable predictions based on input images.
 
-# Table of Contents
+## Table of Contents
 Dataset
 Model Architecture
 Installation
 Usage
-Contributing
-License
-Dataset
+
+
+# Dataset
 The skin cancer dataset used in this project is sourced from Kaggle. It consists of a large collection of skin lesion images categorized into seven classes:
 
 Basal Cell Carcinoma
